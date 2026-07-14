@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExamEligibilityChecker/1.0.0": {
+        "runtime": {
+          "ExamEligibilityChecker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamEligibilityChecker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

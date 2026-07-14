@@ -1,0 +1,14 @@
+D:\Belgium campus 2nd Year\CNA 261\CNA PROJECT 261\ExamEligibilityChecker\bin\Debug\net10.0\ExamEligibilityChecker.exe
+D:\Belgium campus 2nd Year\CNA 261\CNA PROJECT 261\ExamEligibilityChecker\bin\Debug\net10.0\ExamEligibilityChecker.deps.json
+D:\Belgium campus 2nd Year\CNA 261\CNA PROJECT 261\ExamEligibilityChecker\bin\Debug\net10.0\ExamEligibilityChecker.runtimeconfig.json
+D:\Belgium campus 2nd Year\CNA 261\CNA PROJECT 261\ExamEligibilityChecker\bin\Debug\net10.0\ExamEligibilityChecker.dll
+D:\Belgium campus 2nd Year\CNA 261\CNA PROJECT 261\ExamEligibilityChecker\bin\Debug\net10.0\ExamEligibilityChecker.pdb
+D:\Belgium campus 2nd Year\CNA 261\CNA PROJECT 261\ExamEligibilityChecker\obj\Debug\net10.0\ExamEligibilityChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgium campus 2nd Year\CNA 261\CNA PROJECT 261\ExamEligibilityChecker\obj\Debug\net10.0\ExamEligibilityChecker.AssemblyInfoInputs.cache
+D:\Belgium campus 2nd Year\CNA 261\CNA PROJECT 261\ExamEligibilityChecker\obj\Debug\net10.0\ExamEligibilityChecker.AssemblyInfo.cs
+D:\Belgium campus 2nd Year\CNA 261\CNA PROJECT 261\ExamEligibilityChecker\obj\Debug\net10.0\ExamEligibilityChecker.csproj.CoreCompileInputs.cache
+D:\Belgium campus 2nd Year\CNA 261\CNA PROJECT 261\ExamEligibilityChecker\obj\Debug\net10.0\ExamEligibilityChecker.dll
+D:\Belgium campus 2nd Year\CNA 261\CNA PROJECT 261\ExamEligibilityChecker\obj\Debug\net10.0\refint\ExamEligibilityChecker.dll
+D:\Belgium campus 2nd Year\CNA 261\CNA PROJECT 261\ExamEligibilityChecker\obj\Debug\net10.0\ExamEligibilityChecker.pdb
+D:\Belgium campus 2nd Year\CNA 261\CNA PROJECT 261\ExamEligibilityChecker\obj\Debug\net10.0\ExamEligibilityChecker.genruntimeconfig.cache
+D:\Belgium campus 2nd Year\CNA 261\CNA PROJECT 261\ExamEligibilityChecker\obj\Debug\net10.0\ref\ExamEligibilityChecker.dll
